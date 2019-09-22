@@ -1,0 +1,9 @@
+Python 3.6
+Tensorflow 
+Tflearn
+Scikit Learn
+Keras
+Numpy
+Pandas
+Matplotlib
+
